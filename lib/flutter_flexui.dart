@@ -1,4 +1,4 @@
-library flutter_flexui;
+library;
 
 import 'src/utils/device.dart';
 import 'src/utils/screen.dart';

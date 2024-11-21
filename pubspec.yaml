@@ -1,22 +1,22 @@
 name: flutter_flexui
 description: Flutter package for build Flexible and beautiful UI to considers different screen sizes.
-version: 1.4.0
-homepage: https://dipdev.studio
-issue_tracker: https://gitlab.com/dipdev.studio/open-source/flutter/flutter-flexui/issues
-repository: https://gitlab.com/dipdev.studio/open-source/flutter/flutter-flexui
+version: 1.4.1
+homepage: https://dip.dev
+issue_tracker: https://github.com/dip-dev-team/flutter_flexui/issues
+repository: https://github.com/dip-dev-team/flutter_flexui
 
 environment:
-  sdk: ">=3.0.0 <4.0.0"
-  flutter: ">=3.7.0"
+  sdk: ">=3.5.0 <4.0.0"
+  flutter: ">=3.20.0"
 
 dependencies:
   flutter:
     sdk: flutter
   universal_io: ^2.2.2
   universal_html: ^2.2.4
-  device_info_plus: ^10.1.0
+  device_info_plus: ^11.1.1
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^3.0.2
+  flutter_lints: ^5.0.0
